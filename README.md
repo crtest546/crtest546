@@ -1,3 +1,3 @@
 # crtest546
 
-This repository includes a README update.
+This repository includes a README update with fruit.
